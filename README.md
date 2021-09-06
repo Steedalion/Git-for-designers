@@ -1,4 +1,5 @@
 # Git-for-designers
+Designers are often apprehensive to adopt git because of its steep learning curve.
 This presentation is to help designers understand version control and why it is useful using git. 
 
 
